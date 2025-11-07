@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "destinations": "Destinations",
+    "courses": "Courses",
+    "success": "Success Stories",
+    "blog": "Blog & Events",
+    "contact": "Contact",
+    "admin": "Admin"
+  },
+  "home": {
+    "hero_title": "Your Gateway to Global Education",
+    "hero_subtitle": "Expert guidance for studying abroad. We help students achieve their dreams of international education.",
+    "cta_primary": "Get Started",
+    "cta_secondary": "Learn More",
+    "services_title": "Our Services",
+    "destinations_title": "Popular Destinations"
+  },
+  "about": {
+    "title": "About Pandey Consultant",
+    "mission_title": "Our Mission",
+    "mission_text": "To empower students with opportunities to pursue quality education abroad and help them achieve their academic and career goals.",
+    "vision_title": "Our Vision",
+    "vision_text": "To be the most trusted educational consultancy in Nepal, known for excellence in student guidance and support.",
+    "team_title": "Our Team"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive educational consultancy services",
+    "counseling": "Career Counseling",
+    "admission": "University Admission",
+    "visa": "Visa Assistance",
+    "test": "Test Preparation",
+    "scholarship": "Scholarship Guidance",
+    "documentation": "Documentation Support"
+  },
+  "destinations": {
+    "title": "Study Destinations",
+    "subtitle": "Explore top countries for international education"
+  },
+  "courses": {
+    "title": "Course Directory",
+    "subtitle": "Browse programs and universities",
+    "search": "Search courses..."
+  },
+  "success": {
+    "title": "Success Stories",
+    "subtitle": "Hear from our successful students"
+  },
+  "blog": {
+    "title": "Blog & Events",
+    "subtitle": "Latest updates and educational insights",
+    "read_more": "Read More"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our team",
+    "form_title": "Send us a message",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "message": "Your Message",
+    "submit": "Submit Inquiry",
+    "address": "Address",
+    "phone_label": "Phone",
+    "email_label": "Email"
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "login": "Login",
+    "email": "Email",
+    "password": "Password",
+    "logout": "Logout",
+    "blogs": "Manage Blogs",
+    "courses": "Manage Courses",
+    "testimonials": "Manage Testimonials",
+    "leads": "View Leads"
+  },
+  "footer": {
+    "about": "About",
+    "quick_links": "Quick Links",
+    "contact": "Contact Info",
+    "rights": "All rights reserved."
+  }
+}
