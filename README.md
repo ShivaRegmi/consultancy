@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pandey Consultant Website
 
 A modern, professional educational consultancy website built with React, Firebase, and Tailwind CSS.
@@ -84,3 +85,7 @@ vercel --prod
 ---
 
 Built with ❤️ by E1 Agent
+=======
+# consultancy
+.
+>>>>>>> 0247fe0a3dd323f66abad6026540fc493533a6d2
